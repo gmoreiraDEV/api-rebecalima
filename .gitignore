@@ -3,3 +3,4 @@ api-venv
 api.db
 .vscode
 .DS_Store
+.env
