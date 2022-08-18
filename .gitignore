@@ -1,0 +1,4 @@
+__pycache__
+api-venv
+api.db
+.DS_Store
